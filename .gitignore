@@ -1,0 +1,28 @@
+# Environment variables (секреты)
+.env
+.env.local
+.env.*.local
+
+# Docker volumes
+postgres_data/
+pgadmin_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
