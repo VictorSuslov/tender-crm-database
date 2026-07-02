@@ -206,8 +206,8 @@ Docker-контейнер с PostgreSQL 16 + pgvector для системы Tend
 
 ## 🔗 Связанные проекты
 
-- [Backend](https://github.com/ВАШ_ЛОГИН/tender-crm-backend) — FastAPI + LLM + RAG
-- [Desktop](https://github.com/ВАШ_ЛОГИН/tender-crm-desktop) — Qt 6 / C++ клиент
+- [Backend](https://github.com/VictorSuslov/tender-crm-backend) — FastAPI + LLM + RAG
+- [Desktop](https://github.com/VictorSuslov/tender-crm-desktop) — Qt 6 / C++ клиент
 
 ## 📄 Лицензия
 
