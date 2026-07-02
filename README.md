@@ -48,7 +48,7 @@ Docker-контейнер с PostgreSQL 16 + pgvector для системы Tend
 git clone https://github.com/ВАШ_ЛОГИН/tender-crm-database.git
 cd tender-crm-database
 
-2. Настройка переменных окружения
+### 2. Настройка переменных окружения
 cp .env.example .env
 Отредактируйте .env и замените пароли на свои
 
@@ -63,5 +63,5 @@ PGADMIN_PORT=5050
 
 ⚠️ Важно: используйте надёжные пароли!
 
-3. Запуск контейнеров
+### 3. Запуск контейнеров
 docker compose up -d
